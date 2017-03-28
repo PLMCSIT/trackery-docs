@@ -1,0 +1,20 @@
+COMPARISON BETWEEN FACE RECOGNITION ALGORITHM-EIGENFACES,
+FISHERFACES AND ELASTIC BUNCH GRAPH MATCHING - http://www.jgrcs.info/index.php/jgrcs/article/viewFile/46/46
+
+Face Recognition Across Pose and Illumination - https://www.ri.cmu.edu/pub_files/pub4/gross_ralph_2004_3/gross_ralph_2004_3.pdf
+
+A Theory Based on Conversion of RGB image to Gray image - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.206.4410&rep=rep1&type=pdf.
+
+PRINCIPAL COMPONENT ANALYSIS IN VERY
+HIGH-DIMENSIONAL SPACES - http://www3.stat.sinica.edu.tw/sstest/oldpdf/A22n32.pdf
+
+Face Recognition - http://disp.ee.ntu.edu.tw/~pujols/Face%20Recognition-survey.pdf
+
+Illumination Invariant Face Recognition based on PCA (Eigenface) - https://www.ijedr.org/papers/IJEDR1402140.pdf
+
+Object recognition and detection by shape and color pattern recognition utilizing Artificial Neural Networks - http://ieeexplore.ieee.org/document/6574562/
+
+Recognizing Faces using Kernel Eigenfaces
+and Support Vector Machines - https://pdfs.semanticscholar.org/1e09/d91abf0cde26a955ee1487c09d4f8660fb69.pdf 
+
+Simultaneous face detection and recognition using Viola-Jones Algorithm and Artificial Neural Networks for identity verification - ieeexplore.ieee.org/iel7/6852030/6862973/06863118.pdf
